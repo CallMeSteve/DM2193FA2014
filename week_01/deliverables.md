@@ -28,7 +28,7 @@ Each week add a link into your [deliverables.md](./deliverables.md) and include 
 * a website that has an interesting use of technology.
 * a link to an article or tutorial about HTML5, CSS3, mobile first, the responsive web, and other web related issues.
 
-#### Example
+#### Assignment:
 [ChessNYC](http://chessnyc.com/)
 ChessNYC blasts you with information on its homepage, but the placement of all the information is in a comfortable and organized location. 
 It has just enough visuals to keep the user interested (Rolling Banner), but not too many which might cause the user to be overwhelmed. 
