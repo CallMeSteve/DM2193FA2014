@@ -35,8 +35,9 @@ It has just enough visuals to keep the user interested (Rolling Banner), but not
 The logo of the company is the most repeated image on the website which makes it easier for the user to recognize the brand, if he or she ever sees it.
 The website has drop down menus, rolling banners, easy-to-see contact information, and boxes around most of the main features; these features give a user comfortable layout by making the site easy to navigate. 
 
-Here's a [link to a Lynda.com course that teaches HTML] (http://www.lynda.com/HTML-tutorials/HTML-Essential-Training-2012/99326-2.html)
-This is a [link to a Joomla! tutorial course] (http://www.lynda.com/Joomla-tutorials/Adding-Dynamic-Functionality-Your-Joomla-Site/123520-2.html), Joomla! is the CMS that ChessNYC.com uses. 
+Here's a [link to a Lynda.com course that teaches HTML]. (http://www.lynda.com/HTML-tutorials/HTML-Essential-Training-2012/99326-2.html)
+
+This is a [link to a Joomla! tutorial course]. (http://www.lynda.com/Joomla-tutorials/Adding-Dynamic-Functionality-Your-Joomla-Site/123520-2.html), Joomla! is the CMS that ChessNYC.com uses. 
 
 ### Reading Responses
 Coming Soon! 
