@@ -16,9 +16,8 @@
 ## Weekly Deliverables
 
 ### Overview
-During each class, at least 1 commit to Github is your **Ticket to Leave**. 
-The commits for the **week** should contain all of the requirements detailed below. 
-Name your files [appropriately](#filenames) and place them in a folder named for the number of the week for this semester.
+I've decided to Show & Tell a website that I used to work for and helped maintain. 
+I took notes on the reading by writing it on pen and paper, I didn't know we had to write it on the website. I will transcribe my notes ASAP.
 
 ### Show & Tell
 Each week add a link into your [deliverables.md](./deliverables.md) and include a brief description for why you chose it.
